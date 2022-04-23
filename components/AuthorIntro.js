@@ -11,14 +11,14 @@ const AuthorIntro = () =>
           width={64}
           height={64}
           className="mr-3"
-          src="https://avatars1.githubusercontent.com/u/9482724?s=460&u=69a6acab13fd5547a4e316e496b573271077147f&v=4"
+          src="https://photos.google.com/search/_cAF1QipOCz752ER-PKAyf0suk60g1nMWpbcXTxUQ_/photo/AF1QipO-Fs69LWECd6aiE5UqG-7BH2qLUY0A6LNv8ftT"
           alt="Generic placeholder"
         />
         <Media.Body>
           <h5 className="font-weight-bold mb-0">Hello Friends,</h5>
           <p className="welcome-text">
-          My name is Filip Jerga and I am an experienced software engineer and freelance developer.
-          and this is my blog page.
+          My name is Mehrdad Yazdani. I am a proactive and diligent Full Stack Developer. Expertise in object-oriented programming 
+          technologies such as Python, JavaScript, and REACT. Strong ability to learn new technologies quickly and bring a critical eye to new projects.
           </p>
         </Media.Body>
       </Media>
